@@ -1,0 +1,31 @@
+notes
+
+2n2-2n1+1= diff
+twice len of 1 minus 1 is diff?
+
+
+
+k=2m
+if nxt>3m and nxt/a1=3
+
+
+-then diff is prime or n
+and diff(a2)= sp(2a1-1)
+
+-and nxt(a2)=3a2
+
+-diff(a2)/2-1/2=a2-a1
+
+questions:
+whats the first valid a1 after 3m
+
+the first nxt(a1) = 3*k/2 +1
+and a1 is < k so 3k>nxt>3k/2
+
+so nxt(a1)=3*m+1 with nxt(1)=2m
+if nxt(1)=2m then is nxt(a1)=3*m+1 also s.t nxt/a1=3
+
+a1=
+
+
+
