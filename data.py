@@ -17,7 +17,9 @@ def calc(n,k):
 		if nxt>3*k/2 and nxt/i == 3 and diff>1:
 			if is_prime(diff)==False:
 				print("counter example found")
-			print(k)
+			print(i, nxt, diff, k)
+			if diff!=i:
+				print("counter example found")
 			break
 	
 		prev = nxt
